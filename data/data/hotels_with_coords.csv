@@ -1,0 +1,26 @@
+city,hotel_name,rating,latitude,longitude
+Brest,Hôtel Brest 1,8.0,48.3705283,-4.496008799999999
+Brest,Hôtel Brest 2,8.3,48.3805283,-4.4860088
+Brest,Hôtel Brest 3,8.6,48.3905283,-4.4760088
+Brest,Hôtel Brest 4,8.9,48.4005283,-4.496008799999999
+Brest,Hôtel Brest 5,9.2,48.4105283,-4.4860088
+Marseille,InterContinental Marseille,8.0,43.276174299999994,5.3799525
+Marseille,Hôtel Dieu,8.3,43.2861743,5.3599525
+Marseille,Hôtel C2,8.6,43.2961743,5.3699525
+Marseille,Hôtel La Résidence,8.9,43.306174299999995,5.3799525
+Marseille,Hôtel Hermès,9.2,43.3161743,5.3599525
+Nantes,Hôtel Nantes 1,8.0,47.1986371,-1.5541362
+Nantes,Hôtel Nantes 2,8.3,47.208637100000004,-1.5441362
+Nantes,Hôtel Nantes 3,8.6,47.2186371,-1.5641362
+Nantes,Hôtel Nantes 4,8.9,47.2286371,-1.5541362
+Nantes,Hôtel Nantes 5,9.2,47.238637100000005,-1.5441362
+Lille,Hôtel Lille 1,8.0,50.6165654,3.0535282
+Lille,Hôtel Lille 2,8.3,50.626565400000004,3.0635282
+Lille,Hôtel Lille 3,8.6,50.6365654,3.0735281999999997
+Lille,Hôtel Lille 4,8.9,50.6465654,3.0535282
+Lille,Hôtel Lille 5,9.2,50.656565400000005,3.0635282
+Montpellier,Hôtel Montpellier 1,8.0,43.591242199999996,3.8867336999999997
+Montpellier,Hôtel Montpellier 2,8.3,43.6012422,3.8667337
+Montpellier,Hôtel Montpellier 3,8.6,43.6112422,3.8767337
+Montpellier,Hôtel Montpellier 4,8.9,43.6212422,3.8867336999999997
+Montpellier,Hôtel Montpellier 5,9.2,43.6312422,3.8667337
